@@ -1,1 +1,1 @@
-# pxe-centos7
+# Ansible Roles for CentOS 7
